@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://matthewcheng13.github.io',
                 'git_url': 'https://github.com/matthewcheng13/nbdev-demo',
                 'lib_path': 'nbdev_demo'},
-  'syms': {'nbdev_demo.core': {'nbdev_demo.core.foo': ('core.html#foo', 'nbdev_demo/core.py')}}}
+  'syms': {'nbdev_demo.core': {'nbdev_demo.core.hello': ('core.html#hello', 'nbdev_demo/core.py')}}}
