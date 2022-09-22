@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-demo"
+  site-url: "https://matthewcheng13.github.io/nbdev-demo"
+  description: "This is a sample nbdev ML project."
+  repo-branch: main
+  repo-url: "https://github.com/matthewcheng13/nbdev-demo"
